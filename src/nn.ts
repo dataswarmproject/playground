@@ -134,6 +134,10 @@ export class Activations {
     output: x => x,
     der: x => 1
   };
+  public static LEAKY_RELU: ActivationFunction = {
+    output: x => x > 0 ? x : 0.01 * x,
+    der: x => x > 0 ? 1 : 0.01
+  };
 }
 
 /** Build-in regularization functions */
