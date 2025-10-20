@@ -2,7 +2,7 @@
 
 ![Digital Trendz](https://digital-trendz.net/logo.svg)
 
-## 🎯 About This Repository
+## About This Repository
 
 This is **Digital Trendz's** fork of the [TensorFlow Playground](https://github.com/tensorflow/playground) project, an interactive visualization tool for neural networks. We've contributed enhancements to this educational platform as part of our commitment to advancing Business Intelligence and AI technologies.
 
@@ -11,9 +11,9 @@ This is **Digital Trendz's** fork of the [TensorFlow Playground](https://github.
 
 ---
 
-## 🚀 Our Contributions
+## Our Contributions
 
-### ✨ LeakyReLU Activation Function
+### LeakyReLU Activation Function
 
 We've implemented the **LeakyReLU activation function** to enhance the educational value of the playground:
 
@@ -28,15 +28,15 @@ We've implemented the **LeakyReLU activation function** to enhance the education
 - `src/state.ts` - State management registration
 - `index.html` - UI dropdown integration
 
-**Testing Status**: ✅ Tested with all datasets (Circle, XOR, Gaussian, Spiral)
+**Testing Status**: Tested with all datasets (Circle, XOR, Gaussian, Spiral)
 
 ---
 
-## 🌟 About Digital Trendz
+## About Digital Trendz
 
 **Digital Trendz** is an enterprise-grade Business Intelligence consulting platform delivering data-driven solutions across 4 continents. Our mission is to **Re-define Business Intelligence** by transforming digital trends and data into original, innovative, and sustainable solutions.
 
-### 🎯 Core Services
+### Core Services
 
 **Consulting Services**
 - Business Intelligence - BI strategy, implementation, optimization
@@ -62,23 +62,23 @@ We've implemented the **LeakyReLU activation function** to enhance the education
 
 ---
 
-## 🏢 Global Presence
+## Global Presence
 
 **Headquarters - Algeria**
-- 📍 01 Rue Ahmed OUAKED, Dely Brahim, Alger – Algeria
-- 📞 (+213) 554 227 641
-- 📧 bi@digital-trendz.net
+- 01 Rue Ahmed OUAKED, Dely Brahim, Alger – Algeria
+- (+213) 554 227 641
+- bi@digital-trendz.net
 
 **International Offices**
-- 🇺🇸 **USA**: 201 Spear Street, Suite 1100, San Francisco, CA
-- 🇫🇷 **France**: 60 Rue François 1er, 75008 Paris
-- 🇷🇺 **Russia**: Yeysk, Krasnodar
+- **USA**: 201 Spear Street, Suite 1100, San Francisco, CA
+- **France**: 60 Rue François 1er, 75008 Paris
+- **Russia**: Yeysk, Krasnodar
 
 **Website**: [www.digital-trendz.net](https://www.digital-trendz.net)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18.17 or later
@@ -112,7 +112,7 @@ npm run serve
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 
 - **Language**: TypeScript 2.9
 - **Visualization**: D3.js v3.5.16
@@ -122,18 +122,18 @@ npm run serve
 
 ---
 
-## 📖 Project Structure
+## Project Structure
 
 ```
 playground/
 ├── src/
 │   ├── playground.ts    # Main application logic
-│   ├── nn.ts           # Neural network implementation ⭐ Modified
-│   ├── state.ts        # State management ⭐ Modified
+│   ├── nn.ts           # Neural network implementation (Modified)
+│   ├── state.ts        # State management (Modified)
 │   ├── dataset.ts      # Dataset generators
 │   ├── heatmap.ts      # Heatmap visualization
 │   └── linechart.ts    # Loss chart
-├── index.html          # UI structure ⭐ Modified
+├── index.html          # UI structure (Modified)
 ├── styles.css          # Styling
 ├── dist/               # Build output
 └── package.json        # Dependencies
@@ -141,14 +141,14 @@ playground/
 
 ---
 
-## 🎓 Educational Features
+## Educational Features
 
 ### Activation Functions
 - ReLU (Rectified Linear Unit)
 - Tanh (Hyperbolic Tangent)
 - Sigmoid
 - Linear
-- **LeakyReLU** ⭐ *New - Digital Trendz Contribution*
+- **LeakyReLU** (New - Digital Trendz Contribution)
 
 ### Datasets
 - Circle classification
@@ -166,47 +166,47 @@ playground/
 
 ---
 
-## 🤝 Contributing Back to TensorFlow Playground
+## Contributing Back to TensorFlow Playground
 
 This contribution will be submitted as a pull request to the original TensorFlow Playground repository:
-1. Fork submitted: ✅
-2. Code implemented: ✅
-3. Testing completed: ✅
-4. Pull request: 🔄 In progress
-5. Google CLA signed: ⏳ Pending
+1. Fork submitted: Complete
+2. Code implemented: Complete
+3. Testing completed: Complete
+4. Pull request: In progress
+5. Google CLA signed: Pending
 
 ---
 
-## 📊 Key Statistics
+## Key Statistics
 
 **Digital Trendz Achievements**:
-- ✅ **1000+** BI projects delivered
-- ✅ **4** global offices (Algeria, USA, France, Russia)
-- ✅ **50+** training courses available
-- ✅ **6** custom platforms developed
-- ✅ **100%** enterprise client satisfaction
+- **1000+** BI projects delivered
+- **4** global offices (Algeria, USA, France, Russia)
+- **50+** training courses available
+- **6** custom platforms developed
+- **100%** enterprise client satisfaction
 
 **TensorFlow Playground**:
-- ⭐ **12,600+** GitHub stars
-- 🍴 **2,700+** forks
-- 🌍 Used by students and educators worldwide
-- 🎓 Featured in ML courses globally
+- **12,600+** GitHub stars
+- **2,700+** forks
+- Used by students and educators worldwide
+- Featured in ML courses globally
 
 ---
 
-## 🔐 Why We Contribute to Open Source
+## Why We Contribute to Open Source
 
 At **Digital Trendz**, we believe in:
-- 🌍 **Knowledge Sharing** - Contributing to the global tech community
-- 🎓 **Education** - Enhancing learning tools for future data scientists
-- 💡 **Innovation** - Advancing AI and machine learning technologies
-- 🤝 **Collaboration** - Working with world-class developers and researchers
+- **Knowledge Sharing** - Contributing to the global tech community
+- **Education** - Enhancing learning tools for future data scientists
+- **Innovation** - Advancing AI and machine learning technologies
+- **Collaboration** - Working with world-class developers and researchers
 
 Open source contributions are part of our commitment to **Re-defining Business Intelligence** and fostering innovation in the AI/ML ecosystem.
 
 ---
 
-## 👨‍💼 Leadership
+## Leadership
 
 **Dr. Ahmed HALLOUB**  
 *Founder & Chief Data Scientist*  
@@ -216,12 +216,12 @@ With over 1000+ successful BI projects and a presence across 4 continents, Dr. H
 
 ---
 
-## 📞 Contact & Support
+## Contact & Support
 
 **For Business Inquiries**:
-- 📧 Email: bi@digital-trendz.net
-- 📞 Phone: (+213) 554 227 641
-- 🌐 Website: [www.digital-trendz.net](https://www.digital-trendz.net)
+- Email: bi@digital-trendz.net
+- Phone: (+213) 554 227 641
+- Website: [www.digital-trendz.net](https://www.digital-trendz.net)
 
 **For Technical Issues**:
 - Open an issue in this repository
@@ -229,7 +229,7 @@ With over 1000+ successful BI projects and a presence across 4 continents, Dr. H
 
 ---
 
-## 📜 License
+## License
 
 This project maintains the original **Apache License 2.0** from TensorFlow Playground.
 
@@ -240,7 +240,7 @@ See [LICENSE](LICENSE) for full details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google & TensorFlow Team** - For creating the original Playground
 - **Daniel Smilkov & Shan Carter** - Original authors
@@ -249,7 +249,7 @@ See [LICENSE](LICENSE) for full details.
 
 ---
 
-## 🔗 Related Resources
+## Related Resources
 
 ### Digital Trendz Platforms
 - [Laibraries.com](https://www.laibraries.com) - Academic research workspace
@@ -269,7 +269,7 @@ See [LICENSE](LICENSE) for full details.
 
 ---
 
-## 🎯 Future Contributions
+## Future Contributions
 
 We plan to continue contributing to TensorFlow Playground with:
 - Additional activation functions (Swish, ELU, GELU)
@@ -278,7 +278,7 @@ We plan to continue contributing to TensorFlow Playground with:
 - Performance optimizations
 - Enhanced visualizations
 
-Stay tuned for more contributions from the Digital Trendz team! 🚀
+Stay tuned for more contributions from the Digital Trendz team!
 
 ---
 
