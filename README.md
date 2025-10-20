@@ -1,6 +1,6 @@
 # TensorFlow Playground - Digital Trendz Fork
 
-![Digital Trendz](https://www.digital-trendz.net/logo.png)
+![Digital Trendz](https://digital-trendz.net/logo.svg)
 
 ## 🎯 About This Repository
 
